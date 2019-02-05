@@ -1,0 +1,17 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "2.2.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
